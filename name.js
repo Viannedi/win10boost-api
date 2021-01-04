@@ -17,7 +17,7 @@
         offset: 10,
         loadingText: 'Загрузка...',
         failedText: 'Неверно!',
-        barText: 'Проведите....',
+        barText: 'Poo....',
         repeatIcon: 'fa fa-repeat',
         maxLoadCount: 3,
         localImages: function () {
